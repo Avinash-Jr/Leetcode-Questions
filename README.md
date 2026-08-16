@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
