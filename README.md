@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
