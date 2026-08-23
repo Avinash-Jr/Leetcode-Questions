@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -65,7 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
