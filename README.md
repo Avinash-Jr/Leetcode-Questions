@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
