@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+| [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
