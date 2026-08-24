@@ -1,18 +1,43 @@
 class Solution {
-    void solve(vector<int> ip, vector<int> op, vector<vector<int>>& res) {
-        if (ip.empty()) { res.push_back(op); return; }   // BASE
-        vector<int> op1 = op;              // exclude ip[0]
-        vector<int> op2 = op;
-        op2.push_back(ip[0]);              // include ip[0]
-
-        ip.erase(ip.begin());              // input shrinks by one
-        solve(ip, op1, res);
-        solve(ip, op2, res);
-    }
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> res;
-        solve(nums, {}, res);
-        return res;
+
+    /*
+        For every element, we have 2 choices:
+            1. Include the element
+            2. Don't include the element      
+    */
+
+    void solve(
+        vector<int>& nums,
+        int index,
+        vector<int>& current,
+        vector<vector<int>>& ans
+    )
+    {
+        // BASE CASE:
+        // We have processed all elements.
+        if (index == nums.size())
+        {
+            // Store the current subset.
+            ans.push_back(current);
+            return;
+        }
+        // OPTION 1: INCLUDE nums[index]
+        current.push_back(nums[index]);
+        solve(nums, index + 1, current, ans);
+
+        // BACKTRACK
+        // Remove the element before trying
+        // the second possibility.
+        current.pop_back();
+        // OPTION 2: EXCLUDE nums[index]
+        solve(nums, index + 1, current, ans);
+    }
+
+    vector<vector<int>> subsets(vector<int>& nums){
+        vector<vector<int>> ans;
+        vector<int> current;
+        solve(nums, 0, current, ans);
+        return ans;
     }
 };
