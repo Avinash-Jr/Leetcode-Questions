@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0392-is-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
