@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
