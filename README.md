@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
