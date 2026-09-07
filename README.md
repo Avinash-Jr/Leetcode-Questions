@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -34,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -56,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -64,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -128,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
