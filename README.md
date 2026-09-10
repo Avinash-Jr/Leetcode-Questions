@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Breadth-First Search
 |  |
