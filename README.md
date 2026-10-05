@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0392-is-subsequence) |
