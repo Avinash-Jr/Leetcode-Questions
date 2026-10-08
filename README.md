@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,8 +159,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Avinash-Jr/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
